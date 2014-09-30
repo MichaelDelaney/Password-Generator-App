@@ -1,12 +1,15 @@
 <?php
 
+#Execute only is User types in a value	
+if (isset($_POST['WordAmount']))    
+{      
 	#Declaring my word list array
 	$WordAmount=$_POST["WordAmount"];
 	$word_list = array("team", "biological", "cloud", "developer", "riot", "calendar", "maze", 
 					   "vitamin", "food", "stock", "mobile", "yellow", "book", "lizard", "designed",
 					   "forecast", "projected", "audit", "enriched", "park", "telephone", "moving", 
 					   "milk", "juice", "more", "hot", "baby", "shoe", "thanks", "clothes", "coat");
-
+					
 	#Yes, the User wants a symbol
 	if(isset($_POST['AddASymbol']) && 
 		$_POST['AddASymbol'] == 'Yes') 
@@ -50,3 +53,4 @@
 						} if($WordAmount>=1){echo $word_list[rand(1, 30)];}
 				}    
 	}    
+}  
