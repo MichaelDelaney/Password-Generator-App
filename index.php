@@ -31,9 +31,9 @@
 		
 		<!-- Desription of App and What xkcd is -->
 		<p class="para1"><b>Description:</b> xkcd is a webcomic that was created by Randall Munroe. The comic "Password Strength" was created to question pass phrase strength.
-		It is a common misconception that short passwords that include a variation of numbers and symbols are difficult to break, however, longer passwords with simple words 
-		(that are easier to remember) provided better protection. This web app will generate a password with random simple words. You can also specify whether or not you want
-		to include numbers and symbols within the password.
+		It is a common misconception that short passwords that include a variation of numbers and symbols are difficult to break, however longer passwords with simple words 
+		provide better protection and are easier to remember. This web application will generate a password with random simple words for you. You can also specify whether or not you want
+		that password to include numbers and symbols.
 		<br><br>
 		You can view the original comic source by clicking this link:  
 		<a href="http://xkcd.com/936/">xkcd password strength.</a></p><br>
