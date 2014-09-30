@@ -41,10 +41,7 @@
 		<!-- Picture of the Comic -->
 		<img src="images/password_strength.png" alt="xkcd comic"/>
 		<br><br>
-		
-		<!--Contact Information-->
-		<center><p>MichaelDelaney@fas.harvard.edu</p></center>
-		
+
 	</div><br><br>
 
 <!--JavaScript-->
