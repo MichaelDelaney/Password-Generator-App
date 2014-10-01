@@ -10,7 +10,7 @@
 
 ----
 ## Demo
-*  Demo will be uploaded soon
+*  http://screencast.com/t/sbrkTVGzpi7
 
 ----
 ## Details
